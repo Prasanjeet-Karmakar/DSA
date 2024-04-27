@@ -1,0 +1,1 @@
+cout << findMiddle(head) << "\n";
